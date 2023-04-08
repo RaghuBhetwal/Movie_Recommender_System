@@ -1,6 +1,6 @@
 # Movie_Recommender_System
 
-This is a  movie recommender system built using Python and Streamlit. The system uses a list of movies and their attributes to recommend similar movies based on user input.
+This is a  movie recommender system (Content Based)built using Python and Streamlit. The system uses a list of movies and their attributes to recommend similar movies based on user input.
 
 Preview:
 ![image](https://user-images.githubusercontent.com/88844603/230743434-3cac77a3-e1ce-4cd2-a4e5-9e735e428bf7.png)
